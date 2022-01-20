@@ -4,3 +4,6 @@
 [submodule "bff-sdui-app-plugin"]
 	path = bff-sdui-app-plugin
 	url = https://github.com/Orangestack-com/bff-sdui-app-plugin
+[submodule "relational-database-app-plugin"]
+	path = relational-database-app-plugin
+	url = https://github.com/Orangestack-com/relational-database-app-plugin
