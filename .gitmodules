@@ -10,3 +10,6 @@
 [submodule "sqs-producer-app-plugin"]
 	path = sqs-producer-app-plugin
 	url = https://github.com/Orangestack-com/sqs-producer-app-plugin
+[submodule "sqs-consumer-app-plugin"]
+	path = sqs-consumer-app-plugin
+	url = https://github.com/Orangestack-com/sqs-consumer-app-plugin
