@@ -1,0 +1,3 @@
+[submodule "spring-kotlin-template"]
+	path = spring-kotlin-template
+	url = https://github.com/Orangestack-com/spring-kotlin-template
