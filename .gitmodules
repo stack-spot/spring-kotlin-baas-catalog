@@ -7,3 +7,6 @@
 [submodule "relational-database-app-plugin"]
 	path = relational-database-app-plugin
 	url = https://github.com/Orangestack-com/relational-database-app-plugin
+[submodule "sqs-producer-app-plugin"]
+	path = sqs-producer-app-plugin
+	url = https://github.com/Orangestack-com/sqs-producer-app-plugin
