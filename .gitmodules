@@ -1,3 +1,6 @@
 [submodule "spring-kotlin-template"]
 	path = spring-kotlin-template
 	url = https://github.com/Orangestack-com/spring-kotlin-template
+[submodule "bff-sdui-app-plugin"]
+	path = bff-sdui-app-plugin
+	url = https://github.com/Orangestack-com/bff-sdui-app-plugin
