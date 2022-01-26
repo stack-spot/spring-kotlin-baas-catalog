@@ -1,18 +1,18 @@
 [submodule "spring-kotlin-template"]
 	path = spring-kotlin-template
-	url = https://github.com/Orangestack-com/spring-kotlin-template
+	url = https://github.com/stack-spot/spring-kotlin-template
 [submodule "bff-sdui-app-plugin"]
 	path = bff-sdui-app-plugin
-	url = https://github.com/Orangestack-com/bff-sdui-app-plugin
+	url = https://github.com/stack-spot/bff-sdui-app-plugin
 [submodule "relational-database-app-plugin"]
 	path = relational-database-app-plugin
-	url = https://github.com/Orangestack-com/relational-database-app-plugin
+	url = https://github.com/stack-spot/relational-database-app-plugin
 [submodule "sqs-producer-app-plugin"]
 	path = sqs-producer-app-plugin
-	url = https://github.com/Orangestack-com/sqs-producer-app-plugin
+	url = https://github.com/stack-spot/sqs-producer-app-plugin
 [submodule "sqs-consumer-app-plugin"]
 	path = sqs-consumer-app-plugin
-	url = https://github.com/Orangestack-com/sqs-consumer-app-plugin
+	url = https://github.com/stack-spot/sqs-consumer-app-plugin
 [submodule "kvstoreconsul-app-plugin"]
 	path = kvstoreconsul-app-plugin
-	url = https://github.com/Orangestack-com/kvstoreconsul-app-plugin
+	url = https://github.com/stack-spot/kvstoreconsul-app-plugin
