@@ -19,3 +19,6 @@
 [submodule "metrics-app-plugin"]
 	path = metrics-app-plugin
 	url = https://github.com/stack-spot/metrics-app-plugin
+[submodule "tracing-app-plugin"]
+	path = tracing-app-plugin
+	url = https://github.com/stack-spot/tracing-app-plugin.git
