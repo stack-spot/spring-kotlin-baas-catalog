@@ -10,9 +10,6 @@
 [submodule "sqs-consumer-app-plugin"]
 	path = sqs-consumer-app-plugin
 	url = https://github.com/stack-spot/sqs-consumer-app-plugin
-[submodule "kvstoreconsul-app-plugin"]
-	path = kvstoreconsul-app-plugin
-	url = https://github.com/stack-spot/kvstoreconsul-app-plugin
 [submodule "tracing-app-plugin"]
 	path = tracing-app-plugin
 	url = https://github.com/stack-spot/tracing-app-plugin
