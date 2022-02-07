@@ -19,3 +19,6 @@
 [submodule "relational-database-app-kt-plugin"]
 	path = relational-database-app-kt-plugin
 	url = https://github.com/stack-spot/relational-database-app-kt-plugin
+[submodule "kvstore-consul-app-kt-plugin"]
+	path = kvstore-consul-app-kt-plugin
+	url = https://github.com/stack-spot/kvstore-consul-app-kt-plugin
