@@ -1,9 +1,6 @@
 [submodule "spring-kotlin-template"]
 	path = spring-kotlin-template
 	url = https://github.com/stack-spot/spring-kotlin-template
-[submodule "bff-sdui-app-plugin"]
-	path = bff-sdui-app-plugin
-	url = https://github.com/stack-spot/bff-sdui-app-plugin
 [submodule "sqs-producer-app-plugin"]
 	path = sqs-producer-app-plugin
 	url = https://github.com/stack-spot/sqs-producer-app-plugin
