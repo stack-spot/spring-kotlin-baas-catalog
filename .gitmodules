@@ -19,3 +19,6 @@
 [submodule "kvstore-consul-app-kt-plugin"]
 	path = kvstore-consul-app-kt-plugin
 	url = https://github.com/stack-spot/kvstore-consul-app-kt-plugin
+[submodule "bff-sdui-app-kt-plugin"]
+	path = bff-sdui-app-kt-plugin
+	url = https://github.com/stack-spot/bff-sdui-app-kt-plugin
