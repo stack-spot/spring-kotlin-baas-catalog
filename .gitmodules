@@ -19,3 +19,6 @@
 [submodule "metrics-app-kt-plugin"]
 	path = metrics-app-kt-plugin
 	url = https://github.com/stack-spot/metrics-app-kt-plugin
+[submodule "relational-database-app-kt-plugin"]
+	path = relational-database-app-kt-plugin
+	url = https://github.com/stack-spot/relational-database-app-kt-plugin
