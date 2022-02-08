@@ -16,3 +16,6 @@
 [submodule "kvstore-consul-app-kt-plugin"]
 	path = kvstore-consul-app-kt-plugin
 	url = https://github.com/stack-spot/kvstore-consul-app-kt-plugin
+[submodule "tracing-app-kt-plugin"]
+	path = tracing-app-kt-plugin
+	url = https://github.com/stack-spot/tracing-app-kt-plugin
