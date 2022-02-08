@@ -4,9 +4,6 @@
 [submodule "sqs-producer-app-plugin"]
 	path = sqs-producer-app-plugin
 	url = https://github.com/stack-spot/sqs-producer-app-plugin
-[submodule "sqs-consumer-app-plugin"]
-	path = sqs-consumer-app-plugin
-	url = https://github.com/stack-spot/sqs-consumer-app-plugin
 [submodule "metrics-app-kt-plugin"]
 	path = metrics-app-kt-plugin
 	url = https://github.com/stack-spot/metrics-app-kt-plugin
