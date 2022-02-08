@@ -1,15 +1,6 @@
 [submodule "spring-kotlin-template"]
 	path = spring-kotlin-template
 	url = https://github.com/stack-spot/spring-kotlin-template
-[submodule "sqs-producer-app-plugin"]
-	path = sqs-producer-app-plugin
-	url = https://github.com/stack-spot/sqs-producer-app-plugin
-[submodule "sqs-consumer-app-plugin"]
-	path = sqs-consumer-app-plugin
-	url = https://github.com/stack-spot/sqs-consumer-app-plugin
-[submodule "tracing-app-plugin"]
-	path = tracing-app-plugin
-	url = https://github.com/stack-spot/tracing-app-plugin
 [submodule "metrics-app-kt-plugin"]
 	path = metrics-app-kt-plugin
 	url = https://github.com/stack-spot/metrics-app-kt-plugin
@@ -22,3 +13,12 @@
 [submodule "bff-sdui-app-kt-plugin"]
 	path = bff-sdui-app-kt-plugin
 	url = https://github.com/stack-spot/bff-sdui-app-kt-plugin
+[submodule "tracing-app-kt-plugin"]
+	path = tracing-app-kt-plugin
+	url = https://github.com/stack-spot/tracing-app-kt-plugin
+[submodule "sqs-consumer-app-kt-plugin"]
+	path = sqs-consumer-app-kt-plugin
+	url = https://github.com/stack-spot/sqs-consumer-app-kt-plugin
+[submodule "sqs-producer-app-kt-plugin"]
+	path = sqs-producer-app-kt-plugin
+	url = https://github.com/stack-spot/sqs-producer-app-kt-plugin
