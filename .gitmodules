@@ -16,3 +16,6 @@
 [submodule "tracing-app-kt-plugin"]
 	path = tracing-app-kt-plugin
 	url = https://github.com/stack-spot/tracing-app-kt-plugin
+[submodule "sqs-consumer-app-kt-plugin"]
+	path = sqs-consumer-app-kt-plugin
+	url = https://github.com/stack-spot/sqs-consumer-app-kt-plugin
