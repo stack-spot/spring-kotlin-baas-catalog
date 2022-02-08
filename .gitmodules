@@ -1,9 +1,6 @@
 [submodule "spring-kotlin-template"]
 	path = spring-kotlin-template
 	url = https://github.com/stack-spot/spring-kotlin-template
-[submodule "sqs-producer-app-plugin"]
-	path = sqs-producer-app-plugin
-	url = https://github.com/stack-spot/sqs-producer-app-plugin
 [submodule "metrics-app-kt-plugin"]
 	path = metrics-app-kt-plugin
 	url = https://github.com/stack-spot/metrics-app-kt-plugin
