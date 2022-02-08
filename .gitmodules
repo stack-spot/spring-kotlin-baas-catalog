@@ -19,3 +19,6 @@
 [submodule "sqs-producer-app-kt-plugin"]
 	path = sqs-producer-app-kt-plugin
 	url = https://github.com/stack-spot/sqs-producer-app-kt-plugin
+[submodule "bff-sdui-app-kt-plugin"]
+	path = bff-sdui-app-kt-plugin
+	url = https://github.com/stack-spot/bff-sdui-app-kt-plugin
