@@ -19,3 +19,6 @@
 [submodule "bff-sdui-app-kt-plugin"]
 	path = bff-sdui-app-kt-plugin
 	url = https://github.com/stack-spot/bff-sdui-app-kt-plugin
+[submodule "spring-app-kt-template"]
+	path = spring-app-kt-template
+	url = https://github.com/stack-spot/spring-app-kt-template
