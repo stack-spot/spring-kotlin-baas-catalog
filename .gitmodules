@@ -22,3 +22,6 @@
 [submodule "spring-app-kt-template"]
 	path = spring-app-kt-template
 	url = https://github.com/stack-spot/spring-app-kt-template
+[submodule "grpc-client-app-kt-plugin"]
+	path = grpc-client-app-kt-plugin
+	url = https://github.com/stack-spot/grpc-client-app-kt-plugin
