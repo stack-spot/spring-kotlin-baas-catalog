@@ -31,3 +31,6 @@
 [submodule "openapi-gradle-app-plugin"]
 	path = openapi-gradle-app-plugin
 	url = https://github.com/stack-spot/uxservices-kotlin-openapi-gradle-app-plugin
+[submodule "uxservices-kotlin-openapi-gradle-app-plugin"]
+	path = uxservices-kotlin-openapi-gradle-app-plugin
+	url = https://github.com/stack-spot/uxservices-kotlin-openapi-gradle-app-plugin
