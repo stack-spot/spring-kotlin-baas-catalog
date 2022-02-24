@@ -28,6 +28,6 @@
 [submodule "grpc-server-app-kt-plugin"]
 	path = grpc-server-app-kt-plugin
 	url = https://github.com/stack-spot/grpc-server-app-kt-plugin
-[submodule "uxservices-kotlin-openapi-gradle-app-plugin"]
-	path = uxservices-kotlin-openapi-gradle-app-plugin
-	url = https://github.com/stack-spot/uxservices-kotlin-openapi-gradle-app-plugin
+[submodule "openapi-gradle-app-plugin"]
+	path = openapi-gradle-app-plugin
+	url = https://github.com/stack-spot/openapi-gradle-app-plugin
